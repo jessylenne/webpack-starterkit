@@ -1,0 +1,12 @@
+@import 'normalize.css';
+@import 'bootstrap.css';
+
+@import 'variables.css';
+
+:--headings {
+	color: var(--mainColor);
+}
+
+body {
+	background: green;
+}
