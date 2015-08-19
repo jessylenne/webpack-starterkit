@@ -1,7 +1,7 @@
 {
   "name": "jl-starter-kit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web app dev. starter kit with webpack",
   "main": "Gruntfile.js",
   "dependencies": {
     "babel-core": "^5.8.22",
@@ -24,5 +24,13 @@
     "test": "test"
   },
   "author": "Jessy Lenne",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessylenne/webpack-starterkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jessylenne/webpack-starterkit/issues"
+  },
+  "homepage": "https://github.com/jessylenne/webpack-starterkit#readme"
 }
